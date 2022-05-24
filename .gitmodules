@@ -16,3 +16,12 @@
 [submodule "baxter/baxter"]
 	path = baxter/baxter
 	url = https://github.com/RethinkRobotics/baxter.git
+[submodule "baxter/baxter_demo_ui"]
+	path = baxter/baxter_demo_ui
+	url = https://github.com/RethinkRobotics/baxter_demo_ui.git
+[submodule "baxter/baxter_custom_ikfast"]
+	path = baxter/baxter_custom_ikfast
+	url = https://github.com/RethinkRobotics/baxter_custom_ikfast.git
+[submodule "baxter/moveit_robots"]
+	path = baxter/moveit_robots
+	url = https://github.com/ros-planning/moveit_robots.git
