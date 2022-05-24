@@ -1,0 +1,18 @@
+[submodule "baxter/baxter_interface"]
+	path = baxter/baxter_interface
+	url = https://github.com/RethinkRobotics/baxter_interface.git
+[submodule "baxter/baxter_tools"]
+	path = baxter/baxter_tools
+	url = https://github.com/RethinkRobotics/baxter_tools.git
+[submodule "baxter/baxter_pykdl"]
+	path = baxter/baxter_pykdl
+	url = https://github.com/RethinkRobotics/baxter_pykdl.git
+[submodule "baxter/baxter_common"]
+	path = baxter/baxter_common
+	url = https://github.com/RethinkRobotics/baxter_common.git
+[submodule "baxter/baxter_examples"]
+	path = baxter/baxter_examples
+	url = https://github.com/RethinkRobotics/baxter_examples.git
+[submodule "baxter/baxter"]
+	path = baxter/baxter
+	url = https://github.com/RethinkRobotics/baxter.git
