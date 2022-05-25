@@ -1,8 +1,10 @@
-Installation instructions
+### Installation instructions ###
 
+These instructions are for Ubuntu 18.04 with ROS Melodic.
+
+First, install the following packages
 
 ```
-source /opt/ros/melodic/setup.bash
 sudo apt-get install ros-melodic-moveit ros-melodic-kobuki-* ros-melodic-ecl-streams ros-melodic-yocs-velocity-smoother
 
 git clone https://github.com/toeklk/orocos-bayesian-filtering.git
@@ -13,8 +15,11 @@ sudo make install
 cd ../
 make
 cd ../
+```
 
+Then, run these commands to set up the ROS workspace
 
+```
 mkdir -p ros_ws/src
 cd ros_ws/src/
 git clone https://github.com/karpase/CognitiveRoboticsLabWorkspace.git --recurse-submodules
