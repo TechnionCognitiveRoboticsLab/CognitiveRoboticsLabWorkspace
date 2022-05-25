@@ -23,6 +23,6 @@ mv yujin_ocs/yocs_cmd_vel_mux yujin_ocs/yocs_controllers .
 rm -rf yujin_ocs
 
 
-cd ..
+cd ../../..
 catkin_make
 ```
