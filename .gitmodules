@@ -49,9 +49,6 @@
 [submodule "turtlebot2/kobuki_msgs"]
 	path = turtlebot2/kobuki_msgs
 	url = https://github.com/yujinrobot/kobuki_msgs.git
-[submodule "turtlebot2/orocos-bayesian-filtering"]
-	path = turtlebot2/orocos-bayesian-filtering
-	url = https://github.com/toeklk/orocos-bayesian-filtering.git
 [submodule "turtlebot2/kobuki"]
 	path = turtlebot2/kobuki
 	url = https://github.com/yujinrobot/kobuki.git
