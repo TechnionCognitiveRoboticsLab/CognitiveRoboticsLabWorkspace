@@ -5,7 +5,7 @@ These instructions are for Ubuntu 18.04 with ROS Melodic.
 First, install the following packages
 
 ```
-sudo apt-get install ros-melodic-moveit ros-melodic-kobuki-* ros-melodic-ecl-streams ros-melodic-yocs-velocity-smoother ros-melodic-joy
+sudo apt-get install ros-melodic-moveit ros-melodic-kobuki-* ros-melodic-ecl-streams ros-melodic-yocs-velocity-smoother ros-melodic-joy libcppunit-dev
 
 git clone https://github.com/toeklk/orocos-bayesian-filtering.git
 cd orocos-bayesian-filtering/orocos_bfl/
